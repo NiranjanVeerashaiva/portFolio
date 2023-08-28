@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portFolio/static/css/main.eff4b0d0.css",
+    "main.js": "/portFolio/static/js/main.d225aa0d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portFolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/boy.png": "/portFolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/stopwatch.png": "/portFolio/static/media/stopwatch.4b76e5699762155104dd.png",
+    "static/media/Resume.pdf": "/portFolio/static/media/Resume.ede35c3916091774073e.pdf",
+    "static/media/glassesimoji.png": "/portFolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/css.webp": "/portFolio/static/media/css.8a9cb64261d07da57f4f.webp",
+    "static/media/html.webp": "/portFolio/static/media/html.9ba5683e5bf3666e5666.webp",
+    "static/media/reacticon1.gif": "/portFolio/static/media/reacticon1.4b4a9e4ca6986a3409c7.gif",
+    "static/media/nodejs.png": "/portFolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/thumbup.png": "/portFolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/heartemoji.png": "/portFolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portFolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portFolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portFolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/js.png": "/portFolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portFolio/index.html",
+    "main.eff4b0d0.css.map": "/portFolio/static/css/main.eff4b0d0.css.map",
+    "main.d225aa0d.js.map": "/portFolio/static/js/main.d225aa0d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portFolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff4b0d0.css",
+    "static/js/main.d225aa0d.js"
+  ]
+}
